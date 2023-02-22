@@ -1,4 +1,4 @@
- # Pic Some-ReactJS 🎲
+ # Pic Some-ReactJS 🖼️
 
 A mock **`E-Commerce Store`** using `ReactJS`
 
